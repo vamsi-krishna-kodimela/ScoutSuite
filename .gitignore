@@ -46,10 +46,12 @@ nosetests.xml
 *.csv
 
 # Data folder and files
-
+scoutsuite-report*
 inc-scoutsuite-run*
 report-*
 *.db
+
+a.json
 
 # IntelliJ files
 .idea/
